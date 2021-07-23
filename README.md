@@ -1,4 +1,8 @@
-<h2> Hi, I'm Eli Villalejos! <iframe src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h2>
+<h2> Hi, I'm Miguelangel Escorche! <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"></img></h2>
+
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50"></p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Miguelangel%20Escorche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelangel-escorche-delgado-9a2956163//)](https://www.linkedin.com/in/miguelangel-escorche-delgado-9a2956163//)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelesco&show_icons=true&theme=dark)](https://github.com/miguelesco/github-readme-stats)
 
