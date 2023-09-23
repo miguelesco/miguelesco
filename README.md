@@ -10,8 +10,8 @@
 const miguelEscorche = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, Typescript, React-Native, NuxtJs, VueJs, Angular, Redux, HTML/CSS, Bootstrap, SCSS,  CSS],
-  funFacts: ['I have 1+ years of remote work experience with devs 
+  code: [JavaScript, Express, Nextjs, Typescript, React-Native, NuxtJs, VueJs, Angular, Redux, HTML/CSS, Bootstrap, SCSS,  CSS],
+  funFacts: ['I have 3+ years of remote work experience with devs 
   from all over the world', 'I love to play videogames', 'i want to travel more']
 }
 ```
